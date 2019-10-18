@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "flatpickr": "^3.0.6",
-    "jquery": "^3.2.1"
+    "flatpickr": "^4.6.3",
+    "jquery": "^3.4.1"
   }
 }

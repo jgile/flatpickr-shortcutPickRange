@@ -1,42 +1,43 @@
 body {
-  background: #000;
+    background: #000;
 }
 
-.flatpickr-input {
-  font-size: 12px;
+
+.flatpickr-innerContainer {
+    position: relative;
 }
 
 .flatpickr-calendar {
-  width: auto !important;
-  display: flex !important;
+    width: auto !important;
+    display: flex !important;
 }
 
 .flatpickr-shortcutPickRangePanel {
-  width: 150px;
+    width: 150px;
 }
 
 .flatpickr-calendar.open.arrowBottom,
 .flatpickr-calendar.inline {
-  margin-top: -10px;
+    margin-top: -10px;
 }
 
 .flatpickr-shortcut-list {
-  padding: 0;
-  text-align: left;
-  margin: 0;
+    padding: 0;
+    text-align: left;
+    margin: 0;
 }
 
 .flatpickr-shortcut-list-item {
-  list-style-type: none;
-  padding: 10px;
-  cursor: pointer;
+    list-style-type: none;
+    padding: 10px;
+    cursor: pointer;
 }
 
 .flatpickr-shortcut-list-item:hover {
-  background: #ddd;
+    background: #ddd;
 }
 
 .flatpickr-shortcut-list-item.activated {
-  background: #000;
-  color: #fff;
+    background: #000;
+    color: #fff;
 }
