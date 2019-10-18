@@ -1,6 +1,27 @@
 {
+  "name": "flatpickr-shortcutpickrange.git",
+  "version": "1.0.0",
+  "description": "Add shortcuts for flatpickr",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
   "dependencies": {
     "flatpickr": "^4.6.3",
     "jquery": "^3.4.1"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgile/flatpickr-shortcutPickRange.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgile/flatpickr-shortcutPickRange/issues"
+  },
+  "homepage": "https://github.com/jgile/flatpickr-shortcutPickRange#readme"
 }
